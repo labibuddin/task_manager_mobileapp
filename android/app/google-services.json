@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246769561476",
+    "project_id": "todoalfin",
+    "storage_bucket": "todoalfin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246769561476:android:f76d9b304b6dd7eb98f7d1",
+        "android_client_info": {
+          "package_name": "com.example.app_alfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246769561476-c5fjh65tp561dfq8che3089tfk865nkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_SA3OIblqfI1-iXAGP8Hy8Esq3WdrmLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246769561476-c5fjh65tp561dfq8che3089tfk865nkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
